@@ -292,51 +292,51 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4811169810673784, guid: cb3e2d902ac04c24e91af3490d8f4684, type: 2}
       propertyPath: m_LocalRotation.x
-      value: -0.14921188
+      value: -0.06804553
       objectReference: {fileID: 0}
     - target: {fileID: 4811169810673784, guid: cb3e2d902ac04c24e91af3490d8f4684, type: 2}
       propertyPath: m_LocalRotation.y
-      value: -0.25581595
+      value: 0.009569704
       objectReference: {fileID: 0}
     - target: {fileID: 4811169810673784, guid: cb3e2d902ac04c24e91af3490d8f4684, type: 2}
       propertyPath: m_LocalRotation.z
-      value: 0.039998963
+      value: -0.0006526652
       objectReference: {fileID: 0}
     - target: {fileID: 4811169810673784, guid: cb3e2d902ac04c24e91af3490d8f4684, type: 2}
       propertyPath: m_LocalRotation.w
-      value: -0.954303
+      value: -0.9976361
       objectReference: {fileID: 0}
     - target: {fileID: 4811169810673784, guid: cb3e2d902ac04c24e91af3490d8f4684, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -11.134293
+      value: 0.16239357
       objectReference: {fileID: 0}
     - target: {fileID: 4811169810673784, guid: cb3e2d902ac04c24e91af3490d8f4684, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 3.7784948
+      value: 0.9628898
       objectReference: {fileID: 0}
     - target: {fileID: 4811169810673784, guid: cb3e2d902ac04c24e91af3490d8f4684, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -19.08252
+      value: -13.978761
       objectReference: {fileID: 0}
     - target: {fileID: 20691160681454778, guid: cb3e2d902ac04c24e91af3490d8f4684,
         type: 2}
       propertyPath: m_NormalizedViewPortRect.x
-      value: -0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 20691160681454778, guid: cb3e2d902ac04c24e91af3490d8f4684,
         type: 2}
       propertyPath: m_NormalizedViewPortRect.width
-      value: 1.05
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 20691160681454778, guid: cb3e2d902ac04c24e91af3490d8f4684,
         type: 2}
       propertyPath: m_NormalizedViewPortRect.height
-      value: 1.1
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 20691160681454778, guid: cb3e2d902ac04c24e91af3490d8f4684,
         type: 2}
       propertyPath: m_NormalizedViewPortRect.y
-      value: -0.12
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1304021547543334, guid: cb3e2d902ac04c24e91af3490d8f4684, type: 2}
       propertyPath: m_Layer
@@ -476,7 +476,7 @@ Camera:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1101517507}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_ClearFlags: 1
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}

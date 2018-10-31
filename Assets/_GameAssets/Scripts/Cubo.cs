@@ -23,7 +23,7 @@ public class Cubo : MonoBehaviour {
         {
 
         AudioSource.Play();
-        Invoke("DestruirObjeto", 3);
+        Invoke("DestruirObjeto", 2);
         
         }
         void DestruirObjeto()
